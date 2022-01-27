@@ -5,9 +5,9 @@
 I'm Mohit from India, and I'm B.tech final year Student from branch Computer Science Engineering.
 
 ## Skills and Experience
-> 💻 HTML / CSS / JS
-> 🧠 C++ / DSA
-> 🏪 MySQL
+* 💻 HTML / CSS / JS
+* 🧠 C++ / DSA
+* 🏪 MySQL
 
 
 - 🔭 I’m currently working on My final year project 
