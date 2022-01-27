@@ -1,6 +1,6 @@
 ### Hi there 👋, Mohit
 #### Student 
-![Student ](https://pbs.twimg.com/profile_banners/1319598966716067840/1643283054/1500x500)
+![Student ](https://github.com/mohit421/mohitjais/blob/main/Mohit_banner.png?raw=true)
 
 I'm Mohit from India, and I'm B.tech final year Student from branch Computer Science Engineering.
 
