@@ -1,6 +1,7 @@
+![Student ](https://github.com/mohit421/mohitjais/blob/main/Mohit_banner.png?raw=true)
+
 ### Hi there 👋, Mohit
 #### Student 
-![Student ](https://github.com/mohit421/mohitjais/blob/main/Mohit_banner.png?raw=true)
 
 I'm Mohit from India, and I'm B.tech final year Student from branch Computer Science Engineering.
 
