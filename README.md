@@ -10,7 +10,8 @@ I'm Mohit a Web Developer from India, and I completed  my Bachelor of Technology
 * 🏪 MySQL
 
 
-- 🔭 My Team work Project [Link](http://alumnite-recs.herokuapp.com/).
+- 🔭 My Team work Project [Link](http://alumnite-recs.herokuapp.com/). I did templating using EJS, backend work and Deployment. 
+- Skill:- C++, HTMl ,CSS, Javascript, Expressjs, Mongodb, SQL.
 - 🌱 I’m currently Improving myself day by day.
 
 
